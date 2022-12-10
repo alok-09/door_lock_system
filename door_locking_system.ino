@@ -33,6 +33,7 @@ lcd.begin(16,2);
 }
  
 void loop()
+ //done
 {
 if( currentposition==0)
 {
